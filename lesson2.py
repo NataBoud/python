@@ -67,7 +67,7 @@ else:
 
 name = "natasha"
 number = 13
-if name == "natasha" and number != 13:
+if name == "natasha" and number == 13:
     print("vous avez deviné")
 else:
     print("vous n'avez pas deviné")
