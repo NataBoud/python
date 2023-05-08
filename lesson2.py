@@ -44,6 +44,7 @@ print(1 == "1.0")
 # False and False    False
 
 # ТАБЛИЦА ИСТИННОСТИ ДЛЯ УНАРНОГО ОПЕРАТОРА not
+
 # выражение          результат
 # not True              False
 # not False             True
